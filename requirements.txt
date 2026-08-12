@@ -2,3 +2,4 @@ python-docx
 spacy
 reportlab
 pandas
+PyPDF2
